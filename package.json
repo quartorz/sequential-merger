@@ -1,0 +1,22 @@
+{
+  "name": "sequential-merger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/quartorz/sequential-merger.git"
+  },
+  "author": "quartorz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quartorz/sequential-merger/issues"
+  },
+  "homepage": "https://github.com/quartorz/sequential-merger#readme",
+  "dependencies": {
+    "simple-git": "^3.19.0"
+  }
+}
